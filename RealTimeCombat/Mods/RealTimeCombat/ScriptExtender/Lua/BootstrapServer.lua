@@ -1,0 +1,1 @@
+Ext.Require("RealTimeCombat/Server/Combat.lua")

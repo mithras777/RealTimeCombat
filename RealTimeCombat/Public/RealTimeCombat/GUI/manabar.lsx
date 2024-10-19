@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="6" build="5" />
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" value="152" type="int32"/>
+                    <attribute id="Width" value="152" type="int32"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets\Textures\Icons\manabar.dds" />
+                    <attribute id="UUID" type="FixedString" value="f47ac10b-58cc-4372-a567-0e02b2c3d479" />
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" value="1024" type="int32"/>
+                    <attribute id="Width" value="1024" type="int32"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icon_Juice" />
+                    <attribute id="U1" type="float" value="0.0" />
+                    <attribute id="V1" type="float" value="0.0" />
+                    <attribute id="U2" type="float" value="0.7490234375" />
+                    <attribute id="V2" type="float" value="0.7001953125" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icon_Orb" />
+                    <attribute id="U1" type="float" value="0.7490234375" />
+                    <attribute id="V1" type="float" value="0.0" />
+                    <attribute id="U2" type="float" value="0.97314453125" /> 
+                    <attribute id="V2" type="float" value="0.224609375" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
